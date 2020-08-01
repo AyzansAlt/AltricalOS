@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+html{
+    background: rgb(24, 24, 24);
+}
+
+#login{
+    font-size: 170%;
+    text-align: center;
+    width: 20%;
+    height: 40%;
+    color: white;
+        background: rgb(44, 44, 44);
+      position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+#Username, #ps{
+    margin: auto;
+
+}
